@@ -3,3 +3,4 @@ if comment ==(comment.isnumeric()):
     print(int(comment))
 else:
     print(comment.lower())
+    
